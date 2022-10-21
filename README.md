@@ -44,6 +44,8 @@ The goal of this assignment was to make a servo rotate between 0 and 180 degrees
 
 ### Image/Wiring
 
+![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/servo-motor-with-arduino-uno-wiring-diagram-schematic-circuit-tutorial-featured-image.png?raw=true)
+
 ### Reflection
 
 
