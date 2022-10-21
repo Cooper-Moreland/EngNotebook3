@@ -1,6 +1,9 @@
 # EngNotebook3
 
 ## Table of Contents
+* [TableofContents](#TableofContents)
+* [CircuitPython](#CircuitPython)
+* [LedGlow](#LedGlow)
 
 ## CircuitPython
 
