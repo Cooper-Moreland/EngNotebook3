@@ -36,13 +36,20 @@ use "import" to import stuff mainly neopixel to include the led on the board.
 
 ### Description
 
+The goal of this assignment was to make a servo rotate between 0 and 180 degrees. The servo can be connected to any one of the D pins on the board.
+
 ### Code
+
+![https://github.com/Cooper-Moreland/CircuitPython/blob/master/Screenshot%202022-09-19%20095121.png?raw=true](https://github.com/Cooper-Moreland/CircuitPython/blob/master/servocode.png?raw=true)
 
 ### Image/Wiring
 
 ### Reflection
 
-## Distance Sensor
+I learned how to wire a servo on a Metro M4 as well as coding with it in python, like using more of the "while True" line.
+
+
+## DistanceSensor
 
 ### Description
 
