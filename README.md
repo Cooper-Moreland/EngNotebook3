@@ -3,7 +3,7 @@
 ## Table of Contents
 * [TableofContents](#TableofContents)
 * [CircuitPython](#CircuitPython)
-* [LedGlow](#Led Glow)
+* [Led Glow](#LedGlow)
 
 ## CircuitPython
 
