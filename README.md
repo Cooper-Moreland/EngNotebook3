@@ -72,6 +72,8 @@ The goal of this assignment was to have the neopixel on the board fade between c
 
 ### Image
 
+### Evidence
+
 ### Reflection
 
 ## SwingArm
@@ -80,6 +82,16 @@ The goal of this assignment was to have the neopixel on the board fade between c
 
 ### Image
 
+### Evidence
+
 ### Reflection
 
 ## Multi-PartStudio
+
+### Description
+
+### Image
+
+### Evidence
+
+### Reflection
