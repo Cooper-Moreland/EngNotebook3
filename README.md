@@ -63,7 +63,7 @@ The goal of this assignment was to have the neopixel on the board fade between c
 
 ### Reflection
 
-I learned how to use simpleio in my code to more effectively give ranges for conditions. I also got better at using "if" conditions in my coding.
+
 
 # AdvancedCAD
 
