@@ -4,6 +4,7 @@
 * [TableofContents](#TableofContents)
 * [CircuitPython](#CircuitPython)
 * [LedGlow](#LedGlow)
+* [Servo](#Servo)
 
 ## CircuitPython
 
@@ -25,3 +26,25 @@ No wiring needed (led is already on the board)
 ### Reflection
 
 use "import" to import stuff mainly neopixel to include the led on the board.
+
+## Servo
+
+### Description
+
+### Code
+
+### Image/Wiring
+
+### Reflection
+
+## DistanceSensor
+
+### Description
+
+### Code
+
+### Image/Wiring
+
+### Reflection
+
+## LCD(Incomplete)
