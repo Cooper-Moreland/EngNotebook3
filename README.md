@@ -6,6 +6,7 @@
 * [LedGlow](#LedGlow)
 * [Servo](#Servo)
 * [DistanceSensor](#DistanceSensor)
+* [LCD(Incomplete)](#LCD(Incomplete))
 
 ## CircuitPython
 
