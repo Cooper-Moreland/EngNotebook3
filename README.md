@@ -7,7 +7,7 @@
 
 ## CircuitPython
 
-## Led Glow
+## LedGlow
 
 ### Description
 
