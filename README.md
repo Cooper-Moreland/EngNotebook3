@@ -3,11 +3,11 @@
 ## Table of Contents
 * [TableofContents](#TableofContents)
 * [CircuitPython](#CircuitPython)
-* [Led Glow](#LedGlow)
+* [LedGlow](#LedGlow)
 
 ## CircuitPython
 
-## Led Glow
+## LedGlow
 
 ### Description
 
