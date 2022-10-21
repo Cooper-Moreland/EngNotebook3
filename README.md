@@ -46,7 +46,6 @@ The goal of this assignment was to make a servo rotate between 0 and 180 degrees
 
 ### Reflection
 
-I learned how to wire a servo on a Metro M4 as well as coding with it in python, like using more of the "while True" line.
 
 
 ## DistanceSensor
