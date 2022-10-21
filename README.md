@@ -5,6 +5,7 @@
 * [CircuitPython](#CircuitPython)
 * [LedGlow](#LedGlow)
 * [Servo](#Servo)
+* [DistanceSensor](#DistanceSensor)
 
 ## CircuitPython
 
