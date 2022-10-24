@@ -76,6 +76,8 @@ The goal of this assignment was to have the neopixel on the board fade between c
 
 ### Image
 
+![key](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20092305.png?raw=true)
+
 ### Evidence
 
 ### Reflection
