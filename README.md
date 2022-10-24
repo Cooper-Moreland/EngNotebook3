@@ -62,6 +62,8 @@ The goal of this assignment was to have the neopixel on the board fade between c
 
 ### Image/Wiring
 
+![ultrasonicsensor](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/ultrasonicsensor.jpg?raw=true)
+
 ### Reflection
 
 
