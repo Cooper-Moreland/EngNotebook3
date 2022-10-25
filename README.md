@@ -45,6 +45,7 @@ The goal of this assignment was to make a servo rotate between 0 and 180 degrees
 ### Image/Wiring
 
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/servo-motor-with-arduino-uno-wiring-diagram-schematic-circuit-tutorial-featured-image.png?raw=true)
+servo wiring
 
 ### Reflection
 
@@ -63,6 +64,7 @@ The goal of this assignment was to have the neopixel on the board fade between c
 ### Image/Wiring
 
 ![ultrasonicsensor](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/ultrasonicsensor.jpg?raw=true)
+ultrasonic sensor wiring
 
 ### Reflection
 
@@ -79,7 +81,9 @@ Make a launcher with a partner with each of you doing different parts and assemb
 ### Image
 
 ![ring](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20092207.png?raw=true)
+ring image
 ![key](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20092305.png?raw=true)
+key image
 
 ### [FinishedVideo](https://drive.google.com/file/d/1pwKUcreDCwL1iU4KaxW_-eUiIHNnaJTY/view?usp=sharing)
 
@@ -98,7 +102,9 @@ Create a build based on an image and a few given dimensions. After the build is 
 ### Image
 
 ![P1](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20094136.png?raw=true)
+spinner
 ![P2](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20094058.png?raw=true)
+idk
 
 ### [Evidence](https://cvilleschools.onshape.com/documents/1bce9dcb2b34c53888d76b6d/w/575f824c6e28c5a80919e26c/e/dc45af6a9212fe7a46e9f887?renderMode=0&uiState=635696af2b6ade1f6e631b76)
 
@@ -115,9 +121,13 @@ The swing arm but on steroids, it doesn't give you a part to create first so it'
 ### Image
 
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20095002.png?raw=true)
+step 1
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20095034_Q2.png?raw=true)
+step 2
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20095242_Q3.png?raw=true)
+step 3
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20095312_Q4.png?raw=true)
+step 4
 
 ### [Evidence](https://cvilleschools.onshape.com/documents/25363d97db20e1fd1fba4177/w/56566671744e1cf16f5923a2/e/5efb0aabc648c8b244fa1e18?renderMode=0&uiState=6357e099285ef11c0bbf4cbe)
 
