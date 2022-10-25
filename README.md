@@ -66,7 +66,7 @@ The goal of this assignment was to have the neopixel on the board fade between c
 
 ### Reflection
 
-
+Ultrasonic sensor wire placements are different on the M4, you use pins like D2 and D3 as shown in the code. 
 
 # AdvancedCAD
 
