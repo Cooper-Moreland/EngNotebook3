@@ -48,7 +48,7 @@ The goal of this assignment was to make a servo rotate between 0 and 180 degrees
 
 ### Reflection
 
-
+You must import files you need in your code from the circuit python library.
 
 ## DistanceSensor
 
