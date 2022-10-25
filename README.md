@@ -17,8 +17,7 @@
 
 ### Description
 
-The goal of this assignment was to make the neopixel led on the Metro M4 to glow red (I chose purple), if you put hte code in the regular way it glows blue so you have to
-download the neopixel file into your CircuitPython file to make it work.
+The goal of this assignment was to make the neopixel led on the Metro M4 to glow red (I chose purple). If you put the code in the regular way it glows blue so you have to download the neopixel file into your CircuitPython file to make it work.
 
 ### Code
 
@@ -30,7 +29,7 @@ No wiring needed (led is already on the board)
 
 ### Reflection
 
-use "import" to import stuff mainly neopixel to include the led on the board.
+use "import" to import stuff mainly neopixel to include the led on the board. M4 is a new board so there isn't a lot of code online with it. This makes it so you have to use different code. [I used the bundle for version 7](https://circuitpython.org/libraries)
 
 ## Servo
 
@@ -49,7 +48,7 @@ servo wiring
 
 ### Reflection
 
-You must import files you need in your code from the circuit python library.
+No onstacles to talk about here. You must import files you need in your code from the circuit python library.
 
 ## DistanceSensor
 
@@ -68,7 +67,7 @@ ultrasonic sensor wiring
 
 ### Reflection
 
-Ultrasonic sensor wire placements are different on the M4, you use pins like D2 and D3 as shown in the code. [Link to help with how to use simpleio](https://docs.circuitpython.org/projects/simpleio/en/latest/api.html)
+It was hard to find code online with the M4 board. Ultrasonic sensor wire placements are different on the M4, you use pins like D2 and D3 as shown in the code. [Link to help with how to use simpleio](https://docs.circuitpython.org/projects/simpleio/en/latest/api.html)
 
 # AdvancedCAD
 
@@ -91,7 +90,7 @@ key & prop image
 
 ### Reflection
 
-Versions are the history of your document and branches are your personal sandbox to use as a testing ground without ruining the current build.
+Versions are the history of your document and branches are your personal sandbox to use as a testing ground without ruining the current build. No obstacles to be talked about. The key is too short as a useful part in real life so I recommend you double the length.
 
 ## SwingArm
 
@@ -110,7 +109,7 @@ step 2
 
 ### Reflection
 
-Pay full attention to the full build picture so you dont miss any parts of the build, and keep in mind you have to change values so you want that to affect the build the intended way (such as distancing a circle 5mm from another circle instead of just putting the total value.)
+I missed creating one of the extrudes in the build. Pay full attention to the full build picture so you dont miss any parts of the build. Keep in mind you have to change values so you want that to affect the build the intended way (such as distancing a circle 5mm from another circle instead of just putting the total value.)
 
 ## Multi-PartStudio
 
@@ -133,4 +132,4 @@ step 4
 
 ### Reflection
 
-Start with the bottom cap because it's basically the base and the top cap is a more complicated copy of it. If doing this again, make sure to find the easiest starting part and pay attention to how you dimension things off of each other with the changes in mind.
+Start with the bottom cap because it's basically the base and the top cap is a more complicated copy of it. If doing this again, make sure to find the easiest starting part and pay attention to how you dimension things off of each other with the changes in mind. shift+s to create a sketch aved a lot of time, so did linear patterns on the holes.
