@@ -93,6 +93,8 @@ Versions are the history of your document and branches are your personal sandbox
 
 ### Description
 
+Create a build based on an image and a few given dimensions. After the build is done you'll use the variables to change the size and shape of your build how the instructions tell you. Hopefully you dimensioned things right!
+
 ### Image
 
 ![P1](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20094136.png?raw=true)
