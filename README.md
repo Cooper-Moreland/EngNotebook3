@@ -74,6 +74,8 @@ Ultrasonic sensor wire placements are different on the M4, you use pins like D2 
 
 ### Description
 
+Make a launcher with a partner with each of you doing different parts and assembling together. Mates used to show how the key will affect the spinner.
+
 ### Image
 
 ![ring](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20092207.png?raw=true)
@@ -84,6 +86,8 @@ Ultrasonic sensor wire placements are different on the M4, you use pins like D2 
 ### [Evidence](https://cvilleschools.onshape.com/documents/43e557e4899c0d26b8889ae2/w/db816542b6a476e7ac5dfa93/e/76481082c5ed7d7019185ca2?renderMode=0&uiState=6356956988b2b44b5b584898)
 
 ### Reflection
+
+Versions are the history of your document and branches are your personal sandbox to use as a testing ground without ruining the current build.
 
 ## SwingArm
 
@@ -98,9 +102,13 @@ Ultrasonic sensor wire placements are different on the M4, you use pins like D2 
 
 ### Reflection
 
+Pay full attention to the full build picture so you dont miss any parts of the build, and keep in mind you have to change values so you want that to affect the build the intended way (such as distancing a circle 5mm from another circle instead of just putting the total value.)
+
 ## Multi-PartStudio
 
 ### Description
+
+The swing arm but on steroids, it doesn't give you a part to create first so it's your job to figure out the best one. You make all the parts in the same part studio which is what differs from the swing arm since that didn't really have separate parts.
 
 ### Image
 
@@ -112,3 +120,5 @@ Ultrasonic sensor wire placements are different on the M4, you use pins like D2 
 ### [Evidence](https://cvilleschools.onshape.com/documents/25363d97db20e1fd1fba4177/w/56566671744e1cf16f5923a2/e/5efb0aabc648c8b244fa1e18?renderMode=0&uiState=6357e099285ef11c0bbf4cbe)
 
 ### Reflection
+
+Start with the bottom cap because it's basically the base and the top cap is a more complicated copy of it. If doing this again, make sure to find the easiest starting part and pay attention to how you dimension things off of each other with the changes in mind.
