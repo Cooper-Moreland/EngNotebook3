@@ -81,9 +81,9 @@ Make a launcher with a partner with each of you doing different parts and assemb
 ### Image
 
 ![ring](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20092207.png?raw=true)
-ring image
+ring & spinner image
 ![key](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20092305.png?raw=true)
-key image
+key & prop image
 
 ### [FinishedVideo](https://drive.google.com/file/d/1pwKUcreDCwL1iU4KaxW_-eUiIHNnaJTY/view?usp=sharing)
 
@@ -102,9 +102,9 @@ Create a build based on an image and a few given dimensions. After the build is 
 ### Image
 
 ![P1](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20094136.png?raw=true)
-spinner
+step 1 swing arm
 ![P2](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20094058.png?raw=true)
-idk
+step 2
 
 ### [Evidence](https://cvilleschools.onshape.com/documents/1bce9dcb2b34c53888d76b6d/w/575f824c6e28c5a80919e26c/e/dc45af6a9212fe7a46e9f887?renderMode=0&uiState=635696af2b6ade1f6e631b76)
 
@@ -121,7 +121,7 @@ The swing arm but on steroids, it doesn't give you a part to create first so it'
 ### Image
 
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20095002.png?raw=true)
-step 1
+step 1 multi-part studio
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20095034_Q2.png?raw=true)
 step 2
 ![frank](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202022-10-24%20095242_Q3.png?raw=true)
