@@ -6,6 +6,7 @@
 * [LedGlow](#LedGlow)
 * [Servo](#Servo)
 * [DistanceSensor](#DistanceSensor)
+* [MotorControl](#MotorControl)
 * [AdvancedCAD](#AdvancedCAD)
 * [Launcher](#Launcher)
 * [SwingArm](#SwingArm)
@@ -68,6 +69,16 @@ ultrasonic sensor wiring
 ### Reflection
 
 It was hard to find code online with the M4 board. Ultrasonic sensor wire placements are different on the M4, you use pins like D2 and D3 as shown in the code. [Link to help with how to use simpleio](https://docs.circuitpython.org/projects/simpleio/en/latest/api.html)
+
+## MotorControl
+
+### Description
+
+### Code
+
+### Image/Wiring
+
+### Reflection
 
 # AdvancedCAD
 
