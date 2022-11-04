@@ -146,6 +146,8 @@ It was hard to find code online with the M4 board. Ultrasonic sensor wire placem
 ### Code
 
 ```python
+# credit Kazuo Shinozaki
+
 import board               #[lines 1-4] Importing neccesary libraries
 import time
 from analogio import AnalogOut, AnalogIn
