@@ -59,7 +59,44 @@ The goal of this assignment was to have the neopixel on the board fade between c
 
 ### Code
 
-![frank](https://github.com/Cooper-Moreland/CircuitPython/blob/master/ultrasonicsensor_code.png?raw=true)
+```python
+#credit grant for code
+
+import adafruit_hcsr04
+import neopixel
+import time
+import board
+import simpleio #imports
+
+sonar = adafruit_hcsr04.HCSR04(trigger_pin=board.D3, echo_pin=board.D2) #set pins for ultrasonic sensor
+holylight = neopixel.NeoPixel(board.NEOPIXEL, 1) #set nexopixel to holylight
+holylight.brightness = 0.1 #light brightness
+red = 0
+green = 0
+blue = 0 #set variables to 0
+
+while True:
+    try:
+        cm = sonar.distance
+        print((sonar.distance)) #print the distance in cm
+        time.sleep(0.01)
+        if cm < 5:
+            holylight.fill((255, 0, 0)) #red
+        if cm > 5 and cm < 20:
+            red = simpleio.map_range(cm,5,20,255,0)
+            blue = simpleio.map_range(cm,5,20,0,255) #fade from red to blue
+            holylight.fill((red, 0, blue))
+        if cm > 20 and cm < 35:   
+            blue = simpleio.map_range(cm,20,35,255,0)
+            green = simpleio.map_range(cm,20,35,0,255) #fade from blue to green
+            holylight.fill((0, green, blue))
+        if cm > 35:
+            holylight.fill((0, 255, 0)) #green
+    except RuntimeError:
+        print("Retrying!")
+    time.sleep(0.1)
+
+```
 
 ### Image/Wiring
 
