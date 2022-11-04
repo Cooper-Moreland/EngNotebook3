@@ -40,7 +40,27 @@ The goal of this assignment was to make a servo rotate between 0 and 180 degrees
 
 ### Code
 
-![https://github.com/Cooper-Moreland/CircuitPython/blob/master/Screenshot%202022-09-19%20095121.png?raw=true](https://github.com/Cooper-Moreland/CircuitPython/blob/master/servocode.png?raw=true)
+```python
+import time
+import board
+import pwmio
+from adafruit_motor import servo
+
+# create a PWMOut object on Pin D2.
+pwm = pwmio.PWMOut(board.D2, duty_cycle=2 ** 15, frequency=50)
+
+# Create a servo object, my_servo.
+my_servo = servo.Servo(pwm)
+
+while True:
+    for angle in range(0, 180, 5):  # 0 - 180 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
+    for angle in range(180, 0, -5): # 180 - 0 degrees, 5 degrees at a time.
+        my_servo.angle = angle
+        time.sleep(0.05)
+
+```
 
 ### Image/Wiring
 
