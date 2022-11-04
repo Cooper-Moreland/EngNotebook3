@@ -22,7 +22,19 @@ The goal of this assignment was to make the neopixel led on the Metro M4 to glow
 
 ### Code
 
-![frank](https://github.com/Cooper-Moreland/CircuitPython/blob/master/ledglow_code.png?raw=true)
+```python
+import board
+import neopixel
+
+dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+dot.brightness = 0.1 
+
+print("Tis Violet!")
+
+while True:
+    dot.fill((128, 0, 128))
+    
+```
 
 ### Image/Wiring
 
