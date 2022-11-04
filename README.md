@@ -76,7 +76,7 @@ It was hard to find code online with the M4 board. Ultrasonic sensor wire placem
 
 ### Code
 
-'''python
+```python
 import board               #[lines 1-4] Importing neccesary libraries
 import time
 from analogio import AnalogOut, AnalogIn
@@ -90,7 +90,7 @@ while True:
     motor.value = int(simpleio.map_range(pot.value, 96, 65520, 0, 65535)) #Write the mapped value to motor
     time.sleep(.1)                                                      #So that the serial monitor works
 
-'''
+```
 
 ### Image/Wiring
 
