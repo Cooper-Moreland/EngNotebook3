@@ -165,6 +165,9 @@ while True:
 
 ### Image/Wiring
 
+![dc motor](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%20(16).png?raw=true)
+Motor Control Wiring Credit: [Grant](https://github.com/ggastin30/CPython.git)
+
 ### Reflection
 
 [helpful youtube video](https://www.youtube.com/watch?v=IJZ7SV_BkBs) and [Kazuo's Engineering Notebook](https://github.com/kshinoz98/CircuitPython.git), both of these are helpful for understanding motor control. Also got my code from his Engineering Notebook.
