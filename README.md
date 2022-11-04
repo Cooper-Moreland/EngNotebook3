@@ -143,12 +143,14 @@ It was hard to find code online with the M4 board. Ultrasonic sensor wire placem
 
 ### Description
 
+The goal of this assignment was to use a potentiometer to control motor speed. Set the motor as the output and the potentiometer as the input. Make sure to use a AA battery pack with 6V total (4 batteries) so you don't fry your board and see the magic smoke.
+
 ### Code
 
 ```python
 # credit Kazuo Shinozaki
 
-import board               #[lines 1-4] Importing neccesary libraries
+import board               #[lines 1-4] Importing necessary libraries
 import time
 from analogio import AnalogOut, AnalogIn
 import simpleio
