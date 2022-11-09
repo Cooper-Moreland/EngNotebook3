@@ -165,6 +165,8 @@ while True:
 
 ```
 
+### [Video](https://drive.google.com/file/d/1tXgbfAnnkSYnp6516ewDwkUUgyvBpg1y/view?usp=sharing)
+
 ### Image/Wiring
 
 ![dc motor](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%20(16).png?raw=true)
