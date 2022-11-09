@@ -165,12 +165,12 @@ while True:
 
 ```
 
-### [Video Evidence](https://drive.google.com/file/d/1tXgbfAnnkSYnp6516ewDwkUUgyvBpg1y/view?usp=sharing)
-
 ### Image/Wiring
 
 ![dc motor](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%20(16).png?raw=true)
 Motor Control Wiring Credit: [Grant](https://github.com/ggastin30/CPython.git)
+
+### [Video Evidence](https://drive.google.com/file/d/1tXgbfAnnkSYnp6516ewDwkUUgyvBpg1y/view?usp=sharing)
 
 ### Reflection
 
