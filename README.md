@@ -203,7 +203,7 @@ from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
 TMP36_PIN = board.A0  # Analog input connected to TMP36 output.
 
 i2c = board.I2C()
-lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16) #0x27 or 0x3f
+lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16) #0x27 or 0x3f depending on which one works
 
 # Function to simplify the math of reading the temperature.
 def tmp36_temperature_C(analogin):
