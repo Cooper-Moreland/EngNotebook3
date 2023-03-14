@@ -232,7 +232,7 @@ while True:
     if temp_F > desired_temp_max:
         lcd.clear()
         lcd.print("To hot")
-    time.sleep(2.0)
+    time.sleep(1.0)
 
 ```
 
