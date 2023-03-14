@@ -245,7 +245,7 @@ while True:
 ### Reflection
 
 Get the code for the tmp36 sensor down before including the lcd. tmp36 doesn't have its own library file use analogio like for a potentiometer.
-remember to switch the lcd address if it doesnt work and unplug the lcd from the 5V if the metro m4 wont show up in file explorer. 
+remember to switch the lcd address if it doesnt work and unplug the lcd from the 5V if the metro m4 wont show up in file explorer. [very helpful page](https://learn.adafruit.com/tmp36-temperature-sensor/tmp36-with-circuitpython)
 
 # AdvancedCAD
 
