@@ -232,7 +232,7 @@ while True:
 
 ![tempwire](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202023-03-14%20100722.png?raw=true)
 
-### [Video]
+### [Video](https://drive.google.com/file/d/1uhP3nvMrXnHAE0zIdmMa3KRYp5l72kAJ/view?usp=sharing)
 
 ### Reflection
 
