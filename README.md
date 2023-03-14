@@ -229,6 +229,8 @@ while True:
 
 ### Image/Wiring
 
+![tempwire](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202023-03-14%20100722.png?raw=true)
+
 ### [Video]
 
 ### Reflection
