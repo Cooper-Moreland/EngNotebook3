@@ -181,6 +181,11 @@ Motor Control Wiring Credit: [Grant](https://github.com/ggastin30/CPython.git)
 
 ### Description
 
+Use a TMP36 Temperature Sensor and an i2c LCD Screen to print a statement based on the temperature on the lcd screen and print the temperature values in the serial monitor 
+    - If the temperature is within a desired range, print a message "It feels great in here"
+    - If it is too cold, print "brrr Too Cold!"
+    - If it is too hot, print "Too Hot!"
+
 ### Code
 
 ```python
