@@ -3,15 +3,15 @@
 ## Table of Contents
 * [TableofContents](#TableofContents)
 * [CircuitPython](#CircuitPython)
-* [LedGlow](#LedGlow)
+* [Led Glow](#LedGlow)
 * [Servo](#Servo)
-* [DistanceSensor](#DistanceSensor)
-* [MotorControl](#MotorControl)
-* [TemperatureSensor](#TemperatureSensor)
-* [###AdvancedCAD](#AdvancedCAD)
+* [Distance Sensor](#DistanceSensor)
+* [Motor Control](#MotorControl)
+* [Temperature Sensor](#TemperatureSensor)
+* [CAD](#AdvancedCAD)
 * [Launcher](#Launcher)
-* [SwingArm](#SwingArm)
-* [Multi-PartStudio](#Multi-PartStudio)
+* [Swing Arm](#SwingArm)
+* [Multi-Part Studio](#Multi-PartStudio)
 
 # CircuitPython
 
