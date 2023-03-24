@@ -252,6 +252,8 @@ remember to switch the lcd address if it doesnt work and unplug the lcd from the
 
 ### Description
 
+The assignment is to use an encoder, an LCD display, and three LEDs (red, yellow and green) to create a menu based traffic light control. Turning the encoder will change the LCD display to either caution, go, or stop, but the LED will only line up with the corresponding color if you press down the encoder.
+
 ### Code
 
 ``` python
