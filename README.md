@@ -254,6 +254,44 @@ remember to switch the lcd address if it doesnt work and unplug the lcd from the
 
 ### Code
 
+``` python
+
+import rotaryio
+import board
+import digitalio
+import neopixel
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface #imports
+
+i2c = board.I2C()
+
+# some LCDs are 0x3f... some are 0x27.
+lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
+
+led: neopixel.Neopixel = neopixel.NeoPixel(board.NEOPIXEL, 1) # initialization of hardware
+print("neopixel")
+
+led.brightness = 0.1
+
+button = digitalio.DigitalInOut(board.D12)
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.UP
+
+colors = [("stop", (255, 0, 0)), ("caution", (128, 128, 0)), ("go", (0, 255, 0))]   #three different vars for colors
+
+encoder = rotaryio.IncrementalEncoder(board.D10, board.D9, 2)   # pin 10, 9, and 12
+last_position = None
+while True:
+    position = encoder.position #new var
+    if last_position is None or position != last_position:
+        lcd.clear()
+        lcd.print(colors[position % len(colors)][0])
+    if(not button.value):
+        led[0] = colors[position % len(colors)][1]
+    last_position = position
+
+```
+
 ### Image/Wiring
 
 ### [Video]
