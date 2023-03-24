@@ -250,15 +250,15 @@ remember to switch the lcd address if it doesnt work and unplug the lcd from the
 
 ## RotarySensor
 
-## Description
+### Description
 
-## Code
+### Code
 
-## Image/Wiring
+### Image/Wiring
 
-## [Video]
+### [Video]
 
-## Reflection
+### Reflection
 
 # AdvancedCAD
 
