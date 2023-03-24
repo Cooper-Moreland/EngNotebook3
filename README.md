@@ -8,7 +8,7 @@
 * [Distance Sensor](#DistanceSensor)
 * [Motor Control](#MotorControl)
 * [Temperature Sensor](#TemperatureSensor)
-* [Rotary Sensor](#RotarySensor)
+* [Rotary Encoder](#RotaryEncoder)
 * [CAD](#AdvancedCAD)
 * [Launcher](#Launcher)
 * [Swing Arm](#SwingArm)
@@ -248,7 +248,7 @@ while True:
 Get the code for the tmp36 sensor down before including the lcd. tmp36 doesn't have its own library file use analogio like for a potentiometer.
 remember to switch the lcd address if it doesnt work and unplug the lcd from the 5V if the metro m4 wont show up in file explorer. [very helpful page](https://learn.adafruit.com/tmp36-temperature-sensor/tmp36-with-circuitpython)
 
-## RotarySensor
+## RotaryEncoder
 
 ### Description
 
