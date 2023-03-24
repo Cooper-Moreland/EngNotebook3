@@ -298,7 +298,7 @@ Credit to [River L](https://github.com/rivques?tab=repositories) for code
 
 ![rotarywiring](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202023-03-24%20093258.png?raw=true)
 
-### [Video]
+### [Video](https://drive.google.com/file/d/1psrgAxanX-VfuovkOC3A1tHfGWCb9t6h/view?usp=sharing)
 
 ### Reflection
 
