@@ -332,13 +332,17 @@ photoCrosses = 0    #values
 
 while True:
     if time.monotonic()-last_update > 4:    #if the value is more than 4
-        print("The number of crosses is {photoCrosses}")    #print the number of times it crossed
+        print("The number of crosses is " + str(photoCrosses))    #pr int the number of times it crossed
         last_update = time.monotonic()  
+        photoCrosses = 0
     if last_photo != photo.value and not photo.value:
         photoCrosses += 1   #add one to the photoCrosses variable
     last_photo = photo.value
+    time.sleep(0.1) #debounce
     
 ```
+
+Credit to [River L](https://github.com/rivques?tab=repositories) for some of the code
 
 ### Image/Wiring
 
