@@ -311,6 +311,8 @@ Wiring was easy for this assignment, but the code was the tought part. River Lew
 
 ### Description
 
+Count the number of times an object passes through the gap in a photointerrupter.
+
 ### Code
 
 ``` python
@@ -345,6 +347,8 @@ while True:
 ### [Video]
 
 ### Reflection
+
+First time using a monotonic clock, which just means it doesn't go backwards. Other than that all the code is stuff I've done before and the wiring is as easy as it gets.
 
 # AdvancedCAD
 
