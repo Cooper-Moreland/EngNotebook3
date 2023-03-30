@@ -317,25 +317,24 @@ Wiring was easy for this assignment, but the code was the tought part. River Lew
 
 import time
 import digitalio
-import board
+import board    #imports
 
-photoI = digitalio.DigitalInOut(board.D7)
-photoI.direction = digitalio.Direction.INPUT
-photoI.pull = digitalio.Pull.UP
+photo = digitalio.DigitalInOut(board.D7)
+photo.direction = digitalio.Direction.INPUT
+photo.pull = digitalio.Pull.UP  #input
 
-last_photoI = True
+last_photo = True
 last_update = -4
 
-photoICrosses = 0
+photoCrosses = 0    #values
 
 while True:
-    if time.monotonic()-last_update > 4:
-        print(f"The number of crosses is {photoICrosses}")
-        last_update = time.monotonic()
-    
-    if last_photoI != photoI.value and not photoI.value:
-        photoICrosses += 1
-    last_photoI = photoI.value
+    if time.monotonic()-last_update > 4:    #if the value is more than 4
+        print("The number of crosses is {photoCrosses}")    #print the number of times it crossed
+        last_update = time.monotonic()  
+    if last_photo != photo.value and not photo.value:
+        photoCrosses += 1   #add one to the photoCrosses variable
+    last_photo = photo.value
     
 ```
 
