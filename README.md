@@ -9,6 +9,7 @@
 * [Motor Control](#MotorControl)
 * [Temperature Sensor](#TemperatureSensor)
 * [Rotary Encoder](#RotaryEncoder)
+* [Photointerrupter](#Photointerrupter)
 * [CAD](#AdvancedCAD)
 * [Launcher](#Launcher)
 * [Swing Arm](#SwingArm)
