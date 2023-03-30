@@ -304,7 +304,7 @@ Credit to [River L](https://github.com/rivques?tab=repositories) for code
 
 ### Reflection
 
-
+Wiring was easy for this assignment, but the code was the tought part. River Lewis heped me understand it with his commented code, his engineering notebook is linked above.
 
 # AdvancedCAD
 
