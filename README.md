@@ -340,6 +340,8 @@ while True:
 
 ### Image/Wiring
 
+![photowiring](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202023-03-30%20093653.png?raw=true)
+
 ### [Video]
 
 ### Reflection
