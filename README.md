@@ -424,7 +424,7 @@ Start with the bottom cap because it's basically the base and the top cap is a m
 
 ### Reflection
 
-The Onshape Certified Associate exam was easy as long as you finished the assignments presented in class (the same ones in the CAD section of this notebook). The multiple choce section isn't really a test of your knowledge as long as you know what to put into google and make sure to double check by finding/attempting the question in Onshape. 
+The Onshape Certified Associate exam was easy as long as you finished the assignments presented in class (the same ones in the CAD section of this notebook). The multiple choce section isn't really a test of your knowledge as long as you know what to put into google and make sure to double check by finding/attempting the question in Onshape. The creation section of the exam builds on itself after each question so make sure the value you get in the first question is exact or the small difference will build until you possibly get vaues wrong in ater qestions because of it.
 
 ### Certfication
 
