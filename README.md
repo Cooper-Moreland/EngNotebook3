@@ -14,6 +14,7 @@
 * [Launcher](#Launcher)
 * [Swing Arm](#SwingArm)
 * [Multi-Part Studio](#Multi-PartStudio)
+* [Onshape Assembly](#OnshapeAssembly)
 * [Onshape Certification](#OnshapeCertification)
 
 # CircuitPython
