@@ -427,3 +427,5 @@ Start with the bottom cap because it's basically the base and the top cap is a m
 The Onshape Certified Associate exam was easy as long as you finished the assignments presented in class (the same ones in the CAD section of this notebook). The multiple choce section isn't really a test of your knowledge as long as you know what to put into google and make sure to double check by finding/attempting the question in Onshape. 
 
 ### Certfication
+
+![bob](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202023-05-04%20093151.png?raw=true)
