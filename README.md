@@ -295,7 +295,7 @@ while True:
 
 ```
 
-Credit to [River L](https://github.com/rivques?tab=repositories) for code
+Credit to [River L](https://github.com/rivques?tab=repositories) for some of the code
 
 ### Image/Wiring
 
@@ -342,7 +342,7 @@ while True:
     
 ```
 
-Credit to [River L](https://github.com/rivques?tab=repositories) for some of the code
+Credit to [River L](https://github.com/rivques?tab=repositories) for a few lines of the code
 
 ### Image/Wiring
 
