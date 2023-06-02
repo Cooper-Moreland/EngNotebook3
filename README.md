@@ -16,6 +16,7 @@
 * [Multi-Part Studio](#Multi-PartStudio)
 * [Onshape Assembly](#OnshapeAssembly)
 * [Onshape Certification](#OnshapeCertification)
+* [PID Project](#PIDProject)
 
 # CircuitPython
 
@@ -441,4 +442,4 @@ The Onshape Certified Associate exam was easy as long as you finished the assign
 
 ![bob](https://github.com/Cooper-Moreland/EngNotebook3/blob/main/Screenshot%202023-05-04%20093151.png?raw=true)
 
-## [PID Project](https://github.com/MasonD552/Ball-Levitation-PID-Project.git)
+## [PIDProject](https://github.com/MasonD552/Ball-Levitation-PID-Project.git)
